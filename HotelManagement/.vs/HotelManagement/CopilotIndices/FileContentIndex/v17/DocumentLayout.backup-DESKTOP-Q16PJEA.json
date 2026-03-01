@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|c:\\users\\nahuwoo\\onedrive - american international university-bangladesh\\study\\summer 24-25\\oop2\\final\\practice\\project2\\hotelmanagement\\hotelmanagement\\adminchangepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\adminchangepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|c:\\users\\nahuwoo\\onedrive - american international university-bangladesh\\study\\summer 24-25\\oop2\\final\\practice\\project2\\hotelmanagement\\hotelmanagement\\adminchangepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\adminchangepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageroomsizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageroomsizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageroompriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageroompriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\adminhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\adminhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|c:\\users\\nahuwoo\\onedrive - american international university-bangladesh\\study\\summer 24-25\\oop2\\final\\practice\\project2\\hotelmanagement\\hotelmanagement\\adminhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\adminhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageresevationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageresevationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageroompriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageroompriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\applicationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\applicationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageresevationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageresevationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\managestaffadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\managestaffadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageextrabedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageextrabedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageroomcatergory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageroomcatergory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageroomcatergory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageroomcatergory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageextrabedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageextrabedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageroomsizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageroomsizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\manageclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\manageclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\managestaffadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\managestaffadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DFB11D-78CB-4950-913D-F6D721E96C31}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminChangePasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\AdminChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AdminChangePasswordForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\AdminChangePasswordForm.cs",
+              "RelativeToolTip": "HotelManagement\\AdminChangePasswordForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAASwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:03:15.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminChangePasswordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\AdminChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AdminChangePasswordForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\AdminChangePasswordForm.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\AdminChangePasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:00:54.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageRoomPriceForm.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomPriceForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageRoomPriceForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomPriceForm.cs",
+              "RelativeToolTip": "HotelManagement\\ManageRoomPriceForm.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAASwMwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:25:56.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageRoomPriceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomPriceForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageRoomPriceForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomPriceForm.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\ManageRoomPriceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:17:02.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageResevationsForm.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageResevationsForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageResevationsForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageResevationsForm.cs",
+              "RelativeToolTip": "HotelManagement\\ManageResevationsForm.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAArwLQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:48:51.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageResevationsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageResevationsForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageResevationsForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageResevationsForm.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\ManageResevationsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:16:01.876Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminHomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\AdminHomeForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AdminHomeForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\AdminHomeForm.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\AdminHomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:49:06.584Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManageStaffAdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageStaffAdminForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageStaffAdminForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageStaffAdminForm.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\ManageStaffAdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:55:53.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageClientForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageClientForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageClientForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageClientForm.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\ManageClientForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:21:06.697Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageClientForm.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageClientForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageClientForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageClientForm.cs",
+              "RelativeToolTip": "HotelManagement\\ManageClientForm.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAKgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:49:03.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminHomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\AdminHomeForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AdminHomeForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\AdminHomeForm.cs",
+              "RelativeToolTip": "HotelManagement\\AdminHomeForm.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADgv2UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:49:06.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageStaffAdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageStaffAdminForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageStaffAdminForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageStaffAdminForm.cs",
+              "RelativeToolTip": "HotelManagement\\ManageStaffAdminForm.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAwwKEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:47:36.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageExtraBedForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageExtraBedForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageExtraBedForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageExtraBedForm.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\ManageExtraBedForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:52:07.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageExtraBedForm.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageExtraBedForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageExtraBedForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageExtraBedForm.cs",
+              "RelativeToolTip": "HotelManagement\\ManageExtraBedForm.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv3gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:54:23.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageRoomSizeForm.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomSizeForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageRoomSizeForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomSizeForm.cs",
+              "RelativeToolTip": "HotelManagement\\ManageRoomSizeForm.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwI8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:58:17.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageRoomCatergory.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomCatergory.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageRoomCatergory.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomCatergory.cs",
+              "RelativeToolTip": "HotelManagement\\ManageRoomCatergory.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAADwv5wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T00:08:46.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageRoomCatergory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomCatergory.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageRoomCatergory.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomCatergory.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\ManageRoomCatergory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:16:32.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageRoomSizeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomSizeForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ManageRoomSizeForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ManageRoomSizeForm.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\ManageRoomSizeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:42:54.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\LoginForm.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:51:18.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ApplicationHelper.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ApplicationHelper.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\ApplicationHelper.cs",
+              "RelativeToolTip": "HotelManagement\\ApplicationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:49:06.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\WelcomeForm.cs",
+              "RelativeToolTip": "HotelManagement\\WelcomeForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:49:06.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:49:06.593Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\LoginForm.cs",
+              "RelativeToolTip": "HotelManagement\\LoginForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:49:06.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\nahuwoo\\OneDrive - American International University-Bangladesh\\Study\\Summer 24-25\\OOP2\\Final\\Practice\\Project2\\HotelManagement\\HotelManagement\\Program.cs",
+              "RelativeToolTip": "HotelManagement\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:02:26.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
