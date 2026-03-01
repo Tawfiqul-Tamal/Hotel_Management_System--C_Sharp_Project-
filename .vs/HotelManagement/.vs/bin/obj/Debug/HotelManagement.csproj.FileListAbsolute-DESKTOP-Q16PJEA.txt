@@ -1,0 +1,431 @@
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.HomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.HomeForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageGuestForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomsForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+E:\New folder (2)\Project\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+E:\New folder (2)\Project\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+E:\New folder (2)\Project\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageGuestForm.resources
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomsForm.resources
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+E:\New folder (2)\Project\HotelManagement\HotelManagement\obj\Debug\HotelManagement.WelcomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.WelcomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.WelcomeForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomCatergory.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageClientForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageExtraBedForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomSizeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomPriceForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminChangePasswordForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientHomeForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageClientForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageExtraBedForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomCatergory.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomPriceForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomSizeForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminChangePasswordForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientBookingForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientBookingForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientHomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ForgetPasswordForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentSubmissionForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ForgetPasswordForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientOffersViewForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientChangePasswordForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientChangePasswordForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientOffersViewForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentSubmissionForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewPaymentForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewPaymentForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewFeedbackForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientFeedbackForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewFeedbackForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientFeedbackForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminChangePasswordForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewFeedbackForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewPaymentForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientBookingForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientChangePasswordForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientFeedbackForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientHomeForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientOffersViewForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentSubmissionForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ForgetPasswordForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Generate_Bills__Staff_.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageClientForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageExtraBedForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomCatergory.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomPriceForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomSizeForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Guest_Check_IN_OUT__Staff_.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Reservation__Staff_.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Staff_Dash_Board.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Room_Status__Staff_.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.WelcomeForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.StaffChangePassword.resources
+C:\Users\Hp\Downloads\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ViewFeedback_Staff_.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminChangePasswordForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewFeedbackForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewPaymentForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientBookingForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientChangePasswordForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientFeedbackForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientHomeForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientOffersViewForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentSubmissionForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ForgetPasswordForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Generate_Bills__Staff_.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageClientForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageExtraBedForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomCatergory.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomPriceForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomSizeForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Guest_Check_IN_OUT__Staff_.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Reservation__Staff_.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.StaffChangePassword.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Staff_Dash_Board.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Room_Status__Staff_.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ViewFeedback_Staff_.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.WelcomeForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\nahuwoo\Downloads\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminChangePasswordForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewFeedbackForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewPaymentForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientBookingForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientChangePasswordForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientFeedbackForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientHomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientOffersViewForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentSubmissionForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ForgetPasswordForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Generate_Bills__Staff_.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageClientForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageExtraBedForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomCatergory.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomPriceForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomSizeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Guest_Check_IN_OUT__Staff_.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Reservation__Staff_.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.StaffChangePassword.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Staff_Dash_Board.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Room_Status__Staff_.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ViewFeedback_Staff_.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.WelcomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminChangePasswordForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewFeedbackForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewPaymentForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientBookingForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientChangePasswordForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientFeedbackForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientHomeForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientOffersViewForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentSubmissionForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ForgetPasswordForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Generate_Bills__Staff_.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageClientForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageExtraBedForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomCatergory.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomPriceForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomSizeForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Guest_Check_IN_OUT__Staff_.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Reservation__Staff_.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.StaffChangePassword.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Staff_Dash_Board.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Room_Status__Staff_.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ViewFeedback_Staff_.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.WelcomeForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\User\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminChangePasswordForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewFeedbackForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewPaymentForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientBookingForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientChangePasswordForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientFeedbackForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientHomeForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientOffersViewForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentSubmissionForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ForgetPasswordForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Generate_Bills__Staff_.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageClientForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageExtraBedForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomCatergory.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomPriceForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomSizeForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Guest_Check_IN_OUT__Staff_.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Reservation__Staff_.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.StaffChangePassword.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Staff_Dash_Board.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Room_Status__Staff_.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ViewFeedback_Staff_.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.WelcomeForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\Hp\OneDrive - American International University-Bangladesh\S.M. NAHIAN KABIR's files - Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewCheckInCheckOut.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminChangePasswordForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewCheckInCheckOut.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewFeedbackForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewPaymentForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientBookingForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientChangePasswordForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientFeedbackForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientHomeForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientOffersViewForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentSubmissionForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ForgetPasswordForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Generate_Bills__Staff_.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageClientForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageExtraBedForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomCatergory.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomPriceForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomSizeForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Guest_Check_IN_OUT__Staff_.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Reservation__Staff_.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.StaffChangePassword.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Staff_Dash_Board.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Room_Status__Staff_.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ViewFeedback_Staff_.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.WelcomeForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+E:\Games\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminChangePasswordForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewCheckInCheckOut.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewFeedbackForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewPaymentForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientBookingForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientChangePasswordForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientFeedbackForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientHomeForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientOffersViewForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentSubmissionForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ForgetPasswordForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Generate_Bills__Staff_.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageClientForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageExtraBedForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomCatergory.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomPriceForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomSizeForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Guest_Check_IN_OUT__Staff_.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Reservation__Staff_.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.StaffChangePassword.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Staff_Dash_Board.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Room_Status__Staff_.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ViewFeedback_Staff_.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.WelcomeForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\User\Downloads\MergedV3\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe.config
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminChangePasswordForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminHomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewCheckInCheckOut.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewFeedbackForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AdminViewPaymentForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientBookingForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientChangePasswordForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientFeedbackForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientHomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientOffersViewForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ClientPaymentSubmissionForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ForgetPasswordForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Generate_Bills__Staff_.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageClientForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageExtraBedForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageResevationsForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomCatergory.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomPriceForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoomSizeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffAdminForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Guest_Check_IN_OUT__Staff_.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Manage_Reservation__Staff_.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RegistrationForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.StaffChangePassword.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Staff_Dash_Board.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Room_Status__Staff_.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ViewFeedback_Staff_.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.WelcomeForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.LoginForm.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\nahuwoo\OneDrive - American International University-Bangladesh\Study\Summer 24-25\OOP2\Final\Practice\MergedV4\MergedV4\Project2\Project2\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageStaffs.resources
